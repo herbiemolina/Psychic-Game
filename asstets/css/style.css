@@ -1,0 +1,18 @@
+html {
+    background: lightskyblue
+}
+
+h1 {
+    font: bold;
+    text-align: center;
+    font-size: xx-large
+}
+
+#pic {
+    margin: 20px 20px 20px 565px
+}
+
+p {
+    text-align: center;
+    font: bold, x-large
+}
